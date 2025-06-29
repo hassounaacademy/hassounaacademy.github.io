@@ -5,6 +5,7 @@
 
 *{
     transition: all 0.5s;
+      font-family: 'Cairo', sans-serif;
 }
 
 html{
@@ -191,6 +192,10 @@ iframe {
 
 .w200px{
     width: 200px;
+}
+
+.w220px{
+    width: 220px;
 }
 
 .btn:hover {
@@ -484,7 +489,7 @@ footer {
 .mybtn{
     width:98%;
     color:#cfeff5;
-    font-size:18px;
+    font-size:15px;
     margin-bottom:2px;
     -webkit-transition: all 0.5s;
     -moz-transition: all 0.5s;
@@ -497,7 +502,7 @@ footer {
 .mybtn:hover{
     width:100%;
     color:#fff;
-    font-size:19px;
+    font-size:16px;
     margin-bottom:2px;
 
 }
